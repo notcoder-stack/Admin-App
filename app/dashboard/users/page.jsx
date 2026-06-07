@@ -9,7 +9,7 @@ const UsersPage = () => {
     <div className={styles.container}>
       <div className={styles.top}>
         <Search placeholder="Search for a user" />
-        <Link href="dashboard/users/add">
+        <Link href="/dashboard/users/add">
           <button className={styles.addbutton}>Add New User</button>
         </Link>
       </div>
