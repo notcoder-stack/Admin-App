@@ -71,4 +71,4 @@ export const updateUser = async (formData) => {
 
     revalidatePath("/dashboard/users")
     redirect("/dashboard/users")
-}
+} 

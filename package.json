@@ -10,13 +10,15 @@
   },
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "jose": "^6.2.3",
     "mongoose": "^9.6.3",
     "next": "16.2.7",
     "next-auth": "^4.24.14",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-icons": "^4.11.0",
-    "recharts": "^3.8.1"
+    "recharts": "^3.8.1",
+    "server-only": "^0.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
